@@ -2,6 +2,7 @@
 /experiments
 
 # files
+*.pyc
 *.pdf
 *.csv
 *.Rhistory

@@ -1,0 +1,8 @@
+# folders
+/experiments
+
+# files
+*.pdf
+*.csv
+*.Rhistory
+*.sh
